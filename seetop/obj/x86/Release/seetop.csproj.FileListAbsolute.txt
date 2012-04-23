@@ -1,0 +1,6 @@
+C:\Users\Иван\Documents\SharpDevelop Projects\seetop\seetop\bin\Release\seetop.exe
+C:\Users\Иван\Documents\SharpDevelop Projects\seetop\seetop\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Иван\Documents\SharpDevelop Projects\seetop\seetop\obj\x86\Release\seetop.NotificationIcon.resources
+C:\Users\Иван\Documents\SharpDevelop Projects\seetop\seetop\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Иван\Documents\SharpDevelop Projects\seetop\seetop\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Иван\Documents\SharpDevelop Projects\seetop\seetop\obj\x86\Release\seetop.exe
